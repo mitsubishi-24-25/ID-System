@@ -1,0 +1,10 @@
+{
+    "name": "login-register/student-management",
+    "description": "Student management system",
+    "type": "project",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29",
+        "setasign/fpdi": "*",
+        "setasign/fpdi-tcpdf": "*"
+    }
+}
